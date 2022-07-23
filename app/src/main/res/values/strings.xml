@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RecyclerDemo</string>
+
+    <string-array name="book_names">
+        <item>Vedas</item>
+        <item>Upanishads</item>
+        <item>Geeta</item>
+        <item>Itihaas</item>
+        <item>Puranas</item>
+        <item>Shastra</item>
+        <item>Kavyas</item>
+    </string-array>
+
+    <string-array name="book_description">
+        <item>Composed in Vedic Sanskrit hymns, the texts constitute the oldest layer of Sanskrit literature and the oldest scriptures of Hinduism.</item>
+        <item>The Upanishads are a collection of Hindu texts which contain some of the central philosophical concepts of Hinduism.</item>
+        <item>Shreemat Bhagwat Geeta is a part of the epic Mahabharata (chapters 23–40, book 6 Mahabharata it wrestles with questions about "who we are, how we should live our lives, and how should we act in the world"</item>
+        <item>refers to the collection of written descriptions of important events in Hinduism. It includes the Mahabharata, the Puranas and the Ramayana.</item>
+        <item>The Puranic literature is encyclopedic,[51] and it includes diverse topics such as cosmology, genealogies of gods, goddesses, kings, heroes, sages, pilgrimages, etc.</item>
+        <item>Shastra means "precept, rules, manual, compendium, book or treatise" in a general sense. Examples: Moksha-shastra, Artha-shastra, Nyaya-shastra, Yoga-shastra, etc.</item>
+        <item>Kavyas</item>
+    </string-array>
+
+
+
+</resources>
